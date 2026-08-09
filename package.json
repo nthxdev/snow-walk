@@ -6,6 +6,11 @@
   "license": "MIT",
   "type": "commonjs",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4",
+    "vite": "^7.0.0"
   }
 }
