@@ -4,5 +4,12 @@
   "private": true,
   "description": "An interactive WebGL snow walk experience",
   "license": "MIT",
-  "type": "commonjs"
+  "scripts": {
+    "dev": "vite",
+    "build": "vite",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
 }
