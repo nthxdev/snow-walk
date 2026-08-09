@@ -1,0 +1,8 @@
+{
+  "name": "snow-walk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An interactive WebGL snow walk experience",
+  "license": "MIT",
+  "type": "commonjs"
+}
